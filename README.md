@@ -51,8 +51,8 @@ With **dual temperature settings**, the HG603D supports both delicate materials 
 ---
 
 ## Author
-**Jaykumar Shah** 
-📧 shahjay1012@gmail.com 🔗 
-[[LinkedIn](https://www.linkedin.com/in/jay-shah-64b98078/)] | [[GitHub](https://github.com/shahjay1012)]
+**Jaykumar Shah**  
+📧 shahjay1012@gmail.com  
+🔗 [[LinkedIn](https://www.linkedin.com/in/jay-shah-64b98078/)] | [[GitHub](https://github.com/shahjay1012)]
 
 ---
